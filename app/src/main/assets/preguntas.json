@@ -1,0 +1,835 @@
+{
+    "preguntas": [
+      {
+        "pregunta": "¿Qué es el JDK en Java?",
+        "opciones": [
+          "Java Development Kit",
+          "Java Deployment Kit",
+          "Java Design Kit",
+          "Java Distributed Kit"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es una clase en Java?",
+        "opciones": [
+          "Un método",
+          "Una colección de objetos",
+          "Una plantilla o blueprint para crear objetos",
+          "Una interfaz"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Cuál es la estructura básica de un programa Java?",
+        "opciones": [
+          "Clase, método, objeto",
+          "Objeto, interfaz, paquete",
+          "Clase, método, paquete",
+          "Clase, paquete, excepción"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es JVM?",
+        "opciones": [
+          "Java Virtual Machine",
+          "Java Value Model",
+          "Java Variable Method",
+          "Java Vision Module"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué palabra clave se usa para definir una constante en Java?",
+        "opciones": [
+          "const",
+          "constant",
+          "final",
+          "static"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué es la herencia en Java?",
+        "opciones": [
+          "Un proceso de reutilización de código donde una clase deriva de otra",
+          "El proceso de hacer un método estático",
+          "La sobrecarga de métodos",
+          "La declaración de interfaces"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es la sobrecarga de métodos?",
+        "opciones": [
+          "Dos o más métodos con el mismo nombre pero diferentes firmas",
+          "Un método con múltiples implementaciones",
+          "Métodos con el mismo nombre y parámetros en distintas clases",
+          "Cuando un método se hereda"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es el polimorfismo en Java?",
+        "opciones": [
+          "La capacidad de una variable, objeto o función para tomar múltiples formas",
+          "La capacidad de una clase para ser abstracta",
+          "Una forma de sobreescribir métodos",
+          "Un tipo de excepción"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es la encapsulación en Java?",
+        "opciones": [
+          "La ocultación de los detalles internos de una clase y acceso mediante métodos",
+          "La herencia de métodos",
+          "La implementación de interfaces",
+          "El polimorfismo en acción"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué palabra clave se utiliza para la herencia en Java?",
+        "opciones": [
+          "inherits",
+          "extends",
+          "implements",
+          "super"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué es una interfaz en Java?",
+        "opciones": [
+          "Una clase abstracta",
+          "Una clase con métodos estáticos",
+          "Una referencia de acceso a métodos públicos",
+          "Una colección de métodos abstractos"
+        ],
+        "correcta": 3
+      },
+      {
+        "pregunta": "¿Cuál es el modificador de acceso más restrictivo en Java?",
+        "opciones": [
+          "private",
+          "protected",
+          "public",
+          "default"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es el valor por defecto de una variable de instancia de tipo int?",
+        "opciones": [
+          "0",
+          "null",
+          "No tiene valor por defecto",
+          "1"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es la recolección de basura (Garbage Collection) en Java?",
+        "opciones": [
+          "La eliminación de objetos no referenciados",
+          "La depuración de errores",
+          "La gestión manual de la memoria",
+          "La compilación de bytecode"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué palabra clave se usa para crear un objeto en Java?",
+        "opciones": [
+          "init",
+          "new",
+          "create",
+          "make"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué es la concurrencia en Java?",
+        "opciones": [
+          "La ejecución simultánea de múltiples hilos",
+          "La ejecución secuencial de procesos",
+          "La gestión de la memoria",
+          "La sincronización de variables"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es un hilo (thread) en Java?",
+        "opciones": [
+          "Un proceso que corre en paralelo",
+          "Un subproceso ligero de ejecución",
+          "Una colección de procesos",
+          "Un objeto que ejecuta varios métodos"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué método se usa para iniciar un hilo en Java?",
+        "opciones": [
+          "run()",
+          "execute()",
+          "start()",
+          "begin()"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué es una excepción en Java?",
+        "opciones": [
+          "Un error en tiempo de compilación",
+          "Un error en tiempo de ejecución",
+          "Un flujo de control normal",
+          "Una estructura de datos"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué palabra clave se usa para lanzar una excepción en Java?",
+        "opciones": [
+          "throw",
+          "throws",
+          "catch",
+          "try"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es un bloque try-catch?",
+        "opciones": [
+          "Un mecanismo para manejar excepciones",
+          "Una estructura de control de flujo",
+          "Un método para depurar programas",
+          "Una forma de declarar variables"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es el bloque finally en Java?",
+        "opciones": [
+          "Un bloque que siempre se ejecuta después del bloque try-catch",
+          "Una manera de declarar constantes",
+          "Una palabra clave para iniciar excepciones",
+          "Un bloque que define métodos finales"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es una clase abstracta en Java?",
+        "opciones": [
+          "Una clase que no puede ser instanciada",
+          "Una clase que no tiene métodos",
+          "Una clase sin constructores",
+          "Una clase que no puede heredar"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es el propósito de la palabra clave 'super' en Java?",
+        "opciones": [
+          "Acceder a los métodos y variables de la clase padre",
+          "Heredar variables estáticas",
+          "Sobrecargar métodos",
+          "Finalizar un programa"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es el tamaño del tipo de dato 'int' en Java?",
+        "opciones": [
+          "4 bytes",
+          "2 bytes",
+          "8 bytes",
+          "Depende del sistema operativo"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué método se usa para concatenar cadenas en Java?",
+        "opciones": [
+          "append()",
+          "concat()",
+          "join()",
+          "add()"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué es un constructor en Java?",
+        "opciones": [
+          "Un método especial que se llama al crear un objeto",
+          "Una clase que implementa una interfaz",
+          "Un método que destruye objetos",
+          "Un tipo especial de variable"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es una variable estática en Java?",
+        "opciones": [
+          "Una variable compartida entre todas las instancias de una clase",
+          "Una variable constante",
+          "Una variable que nunca se inicializa",
+          "Una variable privada"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es un paquete en Java?",
+        "opciones": [
+          "Un conjunto de clases relacionadas",
+          "Una colección de métodos",
+          "Un bloque de código reutilizable",
+          "Una interfaz de red"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es una anotación en Java?",
+        "opciones": [
+          "Un metadato que proporciona información sobre el código",
+          "Un comentario dentro del código",
+          "Una variable estática",
+          "Un tipo de clase abstracta"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué palabra clave se utiliza para crear una instancia de una clase?",
+        "opciones": [
+          "class",
+          "new",
+          "instance",
+          "create"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué tipo de excepción se debe declarar en un método o manejarse dentro de un bloque try-catch?",
+        "opciones": [
+          "RuntimeException",
+          "Error",
+          "Checked Exception",
+          "Throwable"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué palabra clave se utiliza para definir un método que no tiene implementación en una clase abstracta?",
+        "opciones": [
+          "final",
+          "static",
+          "abstract",
+          "void"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Cuál es el valor por defecto de una variable booleana en Java?",
+        "opciones": [
+          "true",
+          "false",
+          "0",
+          "null"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Cuál es la diferencia entre == y .equals() en Java?",
+        "opciones": [
+          "== compara el contenido y .equals() compara las referencias",
+          "== compara las referencias y .equals() compara el contenido",
+          "Ambos son iguales",
+          "== compara solo objetos y .equals() compara primitivos"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué es un bloque estático (static block) en Java?",
+        "opciones": [
+          "Un bloque que inicializa variables estáticas",
+          "Un método que nunca cambia",
+          "Una clase que no puede ser extendida",
+          "Un bloque que solo se ejecuta en tiempo de ejecución"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es una 'HashMap' en Java?",
+        "opciones": [
+          "Una estructura de datos que almacena pares clave-valor",
+          "Una lista ordenada de elementos",
+          "Un arreglo de valores",
+          "Un tipo de cola en Java"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué método se utiliza para insertar un elemento en una 'ArrayList' en Java?",
+        "opciones": [
+          "add()",
+          "put()",
+          "insert()",
+          "append()"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es el principal beneficio de usar interfaces en Java?",
+        "opciones": [
+          "Soportan herencia múltiple",
+          "Permiten definir métodos abstractos y constantes",
+          "Hacen el código más rápido",
+          "Mejoran la legibilidad del código"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué es una excepción 'NullPointerException' en Java?",
+        "opciones": [
+          "Se lanza cuando se accede a un objeto que no ha sido inicializado",
+          "Se lanza cuando se accede a una variable fuera de los límites",
+          "Es una excepción comprobada",
+          "Se lanza cuando hay un error de lógica"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué estructura de control se usa para manejar múltiples excepciones en un bloque try?",
+        "opciones": [
+          "switch",
+          "if-else",
+          "múltiples bloques catch",
+          "finally"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué hace el método 'finalize()' en Java?",
+        "opciones": [
+          "Finaliza el programa",
+          "Ayuda al recolector de basura a limpiar objetos no utilizados",
+          "Cierra archivos abiertos",
+          "Finaliza la ejecución de un hilo"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué es un constructor por defecto en Java?",
+        "opciones": [
+          "Un constructor que acepta parámetros",
+          "Un constructor proporcionado por el programador",
+          "Un constructor sin parámetros",
+          "Un constructor que crea objetos estáticos"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué palabra clave se usa para prevenir que una clase sea heredada?",
+        "opciones": [
+          "abstract",
+          "final",
+          "static",
+          "super"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué es la serialización en Java?",
+        "opciones": [
+          "El proceso de convertir un objeto en un flujo de bytes",
+          "El proceso de convertir un programa en un objeto",
+          "La ejecución secuencial de métodos",
+          "La optimización de colecciones"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué método se debe implementar cuando una clase implementa la interfaz 'Runnable'?",
+        "opciones": [
+          "run()",
+          "start()",
+          "execute()",
+          "initialize()"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué interfaz se utiliza para garantizar el orden en una colección?",
+        "opciones": [
+          "List",
+          "Set",
+          "Map",
+          "Queue"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es la reflexión (reflection) en Java?",
+        "opciones": [
+          "La capacidad de inspeccionar y modificar el comportamiento de métodos y clases en tiempo de ejecución",
+          "Un mecanismo para iterar sobre colecciones",
+          "Un proceso para serializar objetos",
+          "Un método de sincronización de hilos"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es un 'Stream' en Java 8?",
+        "opciones": [
+          "Una secuencia de elementos que soporta operaciones agregadas",
+          "Una clase para manipular archivos",
+          "Un tipo de colección",
+          "Una nueva implementación de hilos"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es la diferencia entre 'HashSet' y 'TreeSet' en Java?",
+        "opciones": [
+          "HashSet no garantiza orden y TreeSet sí",
+          "HashSet permite elementos duplicados y TreeSet no",
+          "HashSet no es parte del framework de colecciones y TreeSet sí",
+          "TreeSet es más rápido que HashSet"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué palabra clave se utiliza para evitar la sobrescritura de un método?",
+        "opciones": [
+          "final",
+          "static",
+          "abstract",
+          "void"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es una clase interna en Java?",
+        "opciones": [
+          "Una clase definida dentro de otra clase",
+          "Una clase que solo puede ser utilizada dentro de un método",
+          "Una clase que no se puede instanciar",
+          "Una clase que implementa una interfaz"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es la sincronización en Java?",
+        "opciones": [
+          "Un mecanismo para controlar el acceso concurrente a un recurso compartido",
+          "Un proceso para hacer las clases más eficientes",
+          "Un método de optimización de memoria",
+          "Un proceso de compilación"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es un deadlock en Java?",
+        "opciones": [
+          "Una situación en la que dos o más hilos se bloquean mutuamente esperando recursos",
+          "Un error en tiempo de compilación",
+          "Un error en el recolector de basura",
+          "Una condición en la que un hilo termina inesperadamente"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué interfaz se usa para comparar dos objetos en Java?",
+        "opciones": [
+          "Comparator",
+          "Comparable",
+          "Comparator y Comparable",
+          "Equals"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué hace el método 'notify()' en Java?",
+        "opciones": [
+          "Despierta un solo hilo que está esperando en el monitor del objeto",
+          "Cierra la ejecución de un hilo",
+          "Despierta todos los hilos",
+          "Bloquea el acceso a un recurso"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es el método 'wait()' en Java?",
+        "opciones": [
+          "Hace que el hilo actual espere hasta que otro hilo lo notifique",
+          "Finaliza la ejecución del hilo actual",
+          "Despierta todos los hilos",
+          "Sincroniza el acceso a un recurso compartido"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es Spring Boot?",
+        "opciones": [
+          "Un framework para construir aplicaciones web de Java",
+          "Un servidor web independiente",
+          "Una herramienta para manejar dependencias en Java",
+          "Una forma de crear interfaces gráficas en Java"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es el propósito de la anotación @SpringBootApplication?",
+        "opciones": [
+          "Configura el punto de entrada principal de la aplicación Spring Boot",
+          "Habilita la persistencia de datos en una base de datos",
+          "Indica que una clase es un controlador",
+          "Define un repositorio en Spring Boot"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué dependencia se debe incluir para habilitar Spring Boot en un proyecto Maven?",
+        "opciones": [
+          "spring-boot-starter",
+          "spring-context",
+          "spring-mvc",
+          "spring-data"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es el puerto predeterminado de una aplicación Spring Boot?",
+        "opciones": [
+          "80",
+          "443",
+          "8080",
+          "8443"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué anotación se utiliza para indicar que una clase es un controlador REST en Spring Boot?",
+        "opciones": [
+          "@Controller",
+          "@RestController",
+          "@Service",
+          "@RequestMapping"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Cómo se configuran propiedades de la aplicación en Spring Boot?",
+        "opciones": [
+          "En el archivo application.properties o application.yml",
+          "En el archivo pom.xml",
+          "En el archivo web.xml",
+          "Directamente en la clase principal"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué hace la anotación @RequestMapping en Spring Boot?",
+        "opciones": [
+          "Mapea solicitudes HTTP a métodos específicos en un controlador",
+          "Gestiona la configuración de la base de datos",
+          "Configura los archivos de propiedades",
+          "Inicia una aplicación web"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cómo se inyecta un bean en Spring Boot?",
+        "opciones": [
+          "Usando la anotación @Autowired",
+          "Usando la anotación @Bean",
+          "A través de XML",
+          "No se puede inyectar un bean en Spring Boot"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es un bean en Spring Boot?",
+        "opciones": [
+          "Un objeto administrado por el contenedor de Spring",
+          "Una variable global",
+          "Una clase que extiende de ApplicationContext",
+          "Un archivo de configuración XML"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cómo se configura un DataSource en Spring Boot?",
+        "opciones": [
+          "A través de las propiedades en application.properties o application.yml",
+          "A través de un archivo XML",
+          "Usando la anotación @DataSource",
+          "No se puede configurar en Spring Boot"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué dependencia necesitas para trabajar con bases de datos en Spring Boot?",
+        "opciones": [
+          "spring-boot-starter-data-jpa",
+          "spring-boot-starter-mvc",
+          "spring-boot-starter-web",
+          "spring-boot-starter-thymeleaf"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué herramienta puedes usar para probar una API REST en Spring Boot?",
+        "opciones": [
+          "Postman",
+          "Thymeleaf",
+          "IntelliJ",
+          "Maven"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es la anotación @GetMapping en Spring Boot?",
+        "opciones": [
+          "Es una anotación que mapea solicitudes HTTP GET a un método del controlador",
+          "Es una anotación que configura una base de datos",
+          "Es una anotación que inicia una sesión",
+          "Es una anotación para validar el contenido de una solicitud"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué herramienta de compilación suele usarse con Spring Boot?",
+        "opciones": [
+          "Maven o Gradle",
+          "Ant",
+          "Make",
+          "Jenkins"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es Spring Boot DevTools?",
+        "opciones": [
+          "Una dependencia que facilita el desarrollo con reinicios automáticos y recarga de plantillas",
+          "Una herramienta para manejar bases de datos en Spring Boot",
+          "Un plugin para Maven",
+          "Una extensión de seguridad"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué anotación se utiliza para manejar excepciones globales en Spring Boot?",
+        "opciones": [
+          "@ControllerAdvice",
+          "@RestController",
+          "@ExceptionHandler",
+          "@HandleException"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cómo se habilita la seguridad en Spring Boot?",
+        "opciones": [
+          "Añadiendo la dependencia spring-boot-starter-security",
+          "Añadiendo una configuración en application.properties",
+          "Es necesaria la configuración XML",
+          "Spring Boot no soporta seguridad"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es la anotación que se utiliza para realizar pruebas unitarias en Spring Boot?",
+        "opciones": [
+          "@SpringBootTest",
+          "@Test",
+          "@RunWith",
+          "@MockBean"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es un actuator en Spring Boot?",
+        "opciones": [
+          "Una herramienta para monitorear y administrar aplicaciones en producción",
+          "Una herramienta para crear endpoints",
+          "Un tipo de controlador",
+          "Una librería para el manejo de excepciones"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es el propósito de la anotación @PathVariable en Spring Boot?",
+        "opciones": [
+          "Extraer valores de la URL y pasarlos como argumentos a los métodos del controlador",
+          "Definir un repositorio de acceso a datos",
+          "Configurar propiedades del sistema",
+          "Mapear solicitudes HTTP POST"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es Spring Initializr?",
+        "opciones": [
+          "Una herramienta en línea para generar proyectos Spring Boot con configuraciones iniciales",
+          "Una biblioteca de validación de datos",
+          "Una extensión para Eclipse",
+          "Un gestor de dependencias"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué es la anotación @PostMapping en Spring Boot?",
+        "opciones": [
+          "Mapea solicitudes HTTP POST a un método específico",
+          "Declara un servicio dentro de una clase",
+          "Define un bean para un método",
+          "Configura una conexión a la base de datos"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es la forma de ejecutar una aplicación Spring Boot?",
+        "opciones": [
+          "Usando el comando `mvn spring-boot:run` o `java -jar`",
+          "Usando el comando `spring start`",
+          "Iniciando el archivo `application.xml`",
+          "Spring Boot no puede ejecutarse desde la línea de comandos"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es la anotación para habilitar la caché en una aplicación Spring Boot?",
+        "opciones": [
+          "@EnableCaching",
+          "@EnableCache",
+          "@EnableJCache",
+          "@EnableTransactionManagement"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cómo se define una propiedad personalizada en Spring Boot?",
+        "opciones": [
+          "Añadiendo la propiedad en application.properties o application.yml",
+          "Usando la anotación @ConfigurationProperties",
+          "Ambas respuestas son correctas",
+          "Definiéndola directamente en el código fuente"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué anotación se utiliza para ejecutar código al inicio de una aplicación Spring Boot?",
+        "opciones": [
+          "@EventListener",
+          "@RunWith",
+          "@Bean",
+          "@PostConstruct"
+        ],
+        "correcta": 3
+      }
+    ]
+  }
+  
